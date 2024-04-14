@@ -10,15 +10,15 @@ body:
   - type: textarea
     id: description
     attributes:
-      label: Feature
-      description: Please provide a detailed description of the feature you are looking for.
+      label: Feature description
+      placeholder: Please provide a detailed description of the feature you are looking for.
     validations:
       required: true
-   - type: dropdown
+  - type: dropdown
     id: component
     attributes:
       label: Component
-      description: What component of Spark⚡️Bot does this affect?
+      description: What component of Spark⚡️Bot is this affecting?
       options:
         - Config
         - Logging
@@ -38,8 +38,8 @@ body:
       label: Code of Conduct
       description: Please certify you have completed the following checks.
       options:
-        - label: I have searched for this feature and confirm it is not a duplicate
+        - label: I have searched for this issue and confirm it is not a duplicate
           required: true
-        - label: This is not a request for help or support
+        - label: This is a bug and not a request for help or support
           required: true
         - label: I would like to submit a PR to resolve this issue
