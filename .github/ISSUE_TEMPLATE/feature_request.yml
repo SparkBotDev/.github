@@ -10,7 +10,7 @@ body:
   - type: textarea
     id: description
     attributes:
-      label: Feature:
+      label: Feature
       description: Please provide a detailed description of the feature you are looking for.
     validations:
       required: true
