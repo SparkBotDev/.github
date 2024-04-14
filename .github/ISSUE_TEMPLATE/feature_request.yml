@@ -40,6 +40,6 @@ body:
       options:
         - label: I have searched for this issue and confirm it is not a duplicate
           required: true
-        - label: This is a bug and not a request for help or support
+        - label: This is not a request for help or support
           required: true
         - label: I would like to submit a PR to resolve this issue
