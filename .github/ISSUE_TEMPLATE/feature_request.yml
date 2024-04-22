@@ -1,0 +1,45 @@
+name: Feature request
+description: Suggest a new feature or change to existing behavior.
+title: "[Feature]: "
+labels: ["feature", "triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for taking the time to let us know what would make Spark⚡️Bot better.
+  - type: textarea
+    id: description
+    attributes:
+      label: Feature description
+      placeholder: Please provide a detailed description of the feature you are looking for.
+    validations:
+      required: true
+  - type: dropdown
+    id: component
+    attributes:
+      label: Component
+      description: What component of Spark⚡️Bot is this affecting?
+      options:
+        - Config
+        - Logging
+        - Scheduled Events
+        - Gateway Events
+        - Commands
+        - Database support
+        - Localization
+        - Official Plugins
+        - Unofficial Plugins
+      default: 0
+    validations:
+      required: true
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Code of Conduct
+      description: Please certify you have completed the following checks.
+      options:
+        - label: I have searched for this issue and confirm it is not a duplicate
+          required: true
+        - label: This is not a request for help or support
+          required: true
+        - label: I would like to submit a PR to resolve this issue
