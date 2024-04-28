@@ -48,7 +48,6 @@ body:
       label: Additional info
       placeholder: Provide any extra information like Discord discussion links, documentation links, etc that you believe would be helpful in finding and resolving the issue.
     validations:
-      required: true
   - type: checkboxes
     id: contributing
     attributes:
