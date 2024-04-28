@@ -10,18 +10,17 @@
 -
 
 ## Related issuses
-<!-- If this PR address an open issue include the number in one of these formats:
-   Closes #XXXXX
-   Related to #XXXXX
--->
-
+<!-- If this PR address an open issue include the number in one of these formats:-->
+Closes #XXXXX
+Related to #XXXXX
 
 ## Additional comments
-<!-- Id you need to provide any additional information or links to supporting materials include it here -->
+<!-- If you need to provide any additional information or links to supporting materials include it here -->
 
 
 ## Pull Request Requirements
-<!-- Replace the whitespace between the square brackets with an 'x', e.g. [x].
-- [ ] I have thoroughly read and understand [The OSpark⚡️Bot Contributing Guide](https://github.com/SparkBotDev/.github/blob/main/CONTRIBUTING.md)
-- [ ] I have run the test suites, and if applicable this change includes new tests.
-- [ ] All changes are my own work or covered under an appropriate permisive open-source license. For my own work, I agree to assign copyright to Brian Lister for inclusion in the codebase licensed under the MIT license.
+<!-- Replace the whitespace between the square brackets with an 'x', e.g. [x]. -->
+- [ ] I have thoroughly read and understand [Code of Conduct](https://github.com/SparkBotDev/.github/blob/main/CODE_OF_CONDUCT.md) and [Contributing Guide](https://github.com/SparkBotDev/.github/blob/main/CONTRIBUTING.md)
+- [ ] I have run all test suites, and my changes pass all tests.  If changes are needed to the tests, I have thoroughly documented why above.
+- [ ] My changes pass all linting checks and follow the project's code style.
+- [ ] All changes are my own work or covered under an appropriate permissive open-source license. I understand and agree that all submitted work is released under the MIT license.
