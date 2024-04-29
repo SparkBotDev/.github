@@ -1,7 +1,9 @@
 <!-- omit in toc -->
 # Contributing to Spark⚡️Bot
 
-We greatly value all contributions to Spark⚡️Bot. Contributing is not limited to code contributions. [Reporting bugs](https://github.com/SparkBotDev/SparkBot/issues/new/choose), [making feature suggestions](https://github.com/SparkBotDev/SparkBot/issues/new/choose), and helping other users on Discord are also valuable contributions. While, this guide focuses on contributing code to the project. For other ways to get involved we suggest you join our [Discord server](https://discord.gg/8ptjPttjvt).
+We greatly value all contributions to Spark⚡️Bot. Contributing is not limited to code contributions. [Reporting bugs](https://github.com/SparkBotDev/SparkBot-Development/issues/new/choose), [making feature suggestions](https://github.com/SparkBotDev/SparkBot-Development/issues/new/choose), and helping other users on Discord are also valuable contributions. While, this guide focuses on contributing code to the project. For other ways to get involved we suggest you join our [Discord server](https://discord.gg/8ptjPttjvt).
+
+All of the development activity for Spark⚡️Bot occurs in the [SparkBot-Development](https://github.com/SparkBotDev/SparkBot-Development/) repository.
 
 ## Code of Conduct
 
