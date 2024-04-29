@@ -57,7 +57,7 @@ body:
         - label: I have thoroughly read and understand [Code of Conduct](https://github.com/SparkBotDev/.github/blob/main/CODE_OF_CONDUCT.md) and [Contributing Guide](https://github.com/SparkBotDev/.github/blob/main/CONTRIBUTING.md).
         - label: "The format of the title follows <Component>: <Short description of your issue>"
           required: true
-        - label: I have [searched](https://github.com/SparkBotDev/SparkBot/issues?q=is%3Aissue) for this issue and confirm it is not a duplicate.
+        - label: I have [searched](https://github.com/SparkBotDev/SparkBot-Development/issues?q=is%3Aissue) for this issue and confirm it is not a duplicate.
           required: true
         - label: I would like to be assigned to work on this issue if it is confirmed.
   - type: input

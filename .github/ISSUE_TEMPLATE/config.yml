@@ -1,7 +1,7 @@
 blank_issues_enabled: true
 contact_links:
   - name: 📑 Documentation
-    url: https://github.com/SparkBotDev/SparkBot/wiki
+    url: https://github.com/SparkBotDev/SparkBot-Development/wiki
     about: "New to Spark⚡️Bot? Starting something new? Check out the wiki documentation."
   - name: 💬 Join the Discord Community
     url: https://discord.gg/8ptjPttjvt

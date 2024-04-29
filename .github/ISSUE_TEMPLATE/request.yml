@@ -46,7 +46,7 @@ body:
           required: true
         - label: "The format of the title follows <Component>: <Short description of your suggestion>"
           required: true
-        - label: I have [searched](https://github.com/SparkBotDev/SparkBot/issues?q=is%3Aissue+label%3Afeature) for this feature and confirm it is not a duplicate.
+        - label: I have [searched](https://github.com/SparkBotDev/SparkBot-Development/issues?q=is%3Aissue+label%3Afeature) for this feature and confirm it is not a duplicate.
           required: true
         - label: I would like to be assigned to implement this feature if it is approved.
   - type: input
