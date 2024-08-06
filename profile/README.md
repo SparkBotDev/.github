@@ -1,24 +1,24 @@
 # Spark⚡️Bot
 
-<div align="center">
-    <a href="https://bun.sh"><img alt="Runs on Bun" src="https://img.shields.io/badge/Runs%20on%20Bun-%23E37AB4?style=flat&logo=bun&logoColor=%23F9F1E1&logoSize=auto&labelColor=%232F2F2F" height=30></a>&nbsp;
-    <a href="https://discord.js.org"><img alt=" Built with discord.js" src="https://github.com/SparkBotDev/.github/raw/main/assets/images/discordjs-badge.svg" height=30></a>&nbsp;
-    <a href="https://valibot.dev"><img alt="Validates with Valibot" src="https://github.com/SparkBotDev/.github/raw/main/assets/images/valibot-badge.svg" height=30></a>&nbsp;
-    <a href="https://github.com/xojs/xo"><img alt="XO code style" src="https://shields.io/badge/code_style-5ed9c7?logo=xo&labelColor=gray" height=30></a>&nbsp;
-</div>
-<div align="center">
+<div align="center" style="margin-bottom: 10px;">
     <img src="https://github.com/SparkBotDev/.github/raw/main/assets/images/readme-banner.png" alt="">
 </div>
+<div align="center" style="margin-bottom: 10px;">
+    <a href="https://bun.sh"><img alt="Runs on Bun" src="https://github.com/SparkBotDev/.github/raw/main/assets/images/badges/bun.svg" height=30></a>&nbsp;
+    <a href="https://discord.js.org"><img alt=" Built with discord.js" src="https://github.com/SparkBotDev/.github/raw/main/assets/images/badges/discordjs.svg" height=30></a>&nbsp;
+    <a href="https://valibot.dev"><img alt="Validates with Valibot" src="https://github.com/SparkBotDev/.github/raw/main/assets/images/badges/valibot.svg" height=30></a>&nbsp;
+    <a href="https://valibot.dev"><img alt="Validates with Valibot" src="https://github.com/SparkBotDev/.github/raw/main/assets/images/badges/forged.svg" height=30></a>
+</div>
 
-Spark⚡️Bot isn't just another Discord bot — it's a flexible and powerful development framework. By harnessing the reliability of the [discord.js](https://discordjs.dev/) library and the performance of the [Bun JavaScript toolkit](https://bun.sh/), Spark⚡️Bot unleashes a custom framework that propels you towards the creation of lightning-fast, powerhouse bots in record time.
+Spark⚡️Bot is a Discord application framework with advanced features to make development effortless. Built on the [discord.js](https://discordjs.dev/) library and designed to run on the [Bun JavaScript runtime](https://bun.sh/), applications built with Spark⚡️Bot are reliable and blazingly fast. Start developing with a custom framework that helps you create lightning-fast, applications in record time.
 
 <div align="center">
     <a href="https://github.com/SparkBotDev/SparkBot-Development/issues"><img alt="issues" src="https://img.shields.io/github/issues/SparkBotDev/SparkBot-Development" height=30></a>
-    <a href="https://github.com/SparkBotDev/SparkBot-Development/wiki"><img alt="documentation" src="https://img.shields.io/badge/Documentation-%23356BF6" height=30></a>
-    <a href="https://discord.gg/8ptjPttjvt"><img alt="Get help on Discord" src="https://img.shields.io/discord/1229954260494712963?logo=discord&logoColor=white&label=Get%20Help&labelColor=%235761E1&color=%2350545B" height=30></a>
+    <a href="https://github.com/SparkBotDev/SparkBot-Development/wiki"><img alt="documentation" src="https://github.com/SparkBotDev/.github/raw/main/assets/images/badges/documentation.svg" height=30></a>
+    <a href="https://discord.gg/8ptjPttjvt"><img alt="Get help on Discord" src="https://img.shields.io/discord/1250847505566929037?logo=discord&logoColor=white&label=Get%20Help&labelColor=%235761E1&color=%2350545B" height=30></a>
 </div>
 
-<div align="center">
-    <a href="https://github.com/SparkBotDev/SparkBot"><img src="https://github.com/SparkBotDev/.github/raw/main/assets/images/new-bot-card.png" alt="New Project Template" width="40%"></a>
-    <a href="https://github.com/SparkBotDev/SparkBot-Development"><img src="https://github.com/SparkBotDev/.github/raw/main/assets/images//dev-repository-card.png" alt="New Project Template" width="40%"></a>
+<div style="display:flex; justify-content: space-around;">
+    <div style="width:40%"><h2 style="color:#009966;font-size:2.5rem;">Use the Framework</h2><p>Create your own Discord application. Everything you need in one easy to use package.</p><a href="https://github.com/new?template_name=SparkBot&template_owner=SparkBotDev"><button style="background-color:#036699; border: none;border-radius:10px; height:40px; width: 150px; font-size: 1.5rem;">Start Now</button></a></div>
+    <div style="width:40%"><h2 style="color:#009966;font-size:2.5rem;">Contribute</h2><p>Help us improve the SparkBot framework.See our roadmap, open an issue, and contribute code.</p><a href="https://github.com/SparkBotDev/core/issues/new/choose"><button style="background-color:#036699; border: none;border-radius:10px; height:40px; width: 150px; font-size: 1.5rem;">Learn More</button></a></div>
 </div>
