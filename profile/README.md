@@ -17,3 +17,5 @@ Spark⚡️Bot is a Discord application framework with advanced features to make
     <a href="https://github.com/SparkBotDev/SparkBot-Development/wiki"><img alt="documentation" src="https://github.com/SparkBotDev/.github/raw/main/assets/images/badges/documentation.svg" height=30></a>
     <a href="https://discord.gg/8ptjPttjvt"><img alt="Get help on Discord" src="https://img.shields.io/discord/1250847505566929037?logo=discord&logoColor=white&label=Get%20Help&labelColor=%235761E1&color=%2350545B" height=30></a>
 </div>
+
+[Code Test](./CODE_OF_CONDUCT.ts)
